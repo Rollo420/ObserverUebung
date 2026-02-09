@@ -1,1 +1,1 @@
-WinTmp
+WMI
